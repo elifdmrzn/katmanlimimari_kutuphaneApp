@@ -1,0 +1,10 @@
+C:\Users\Elif\Desktop\kutup\kutuphaneApp.Entity\bin\x64\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\kutup\kutuphaneApp.Entity\bin\x64\Debug\kutuphaneApp.Entity.pdb
+C:\Users\Elif\Desktop\kutup\kutuphaneApp.Entity\obj\x64\Debug\kutuphaneApp.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Elif\Desktop\kutup\kutuphaneApp.Entity\obj\x64\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\kutup\kutuphaneApp.Entity\obj\x64\Debug\kutuphaneApp.Entity.pdb
+C:\Users\Elif\Desktop\dersler\162113321_ElifDemirezen_GörselFinal\KutuphaneApp\kutuphaneApp.Entity\bin\x64\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\dersler\162113321_ElifDemirezen_GörselFinal\KutuphaneApp\kutuphaneApp.Entity\bin\x64\Debug\kutuphaneApp.Entity.pdb
+C:\Users\Elif\Desktop\dersler\162113321_ElifDemirezen_GörselFinal\KutuphaneApp\kutuphaneApp.Entity\obj\x64\Debug\kutuphaneApp.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Elif\Desktop\dersler\162113321_ElifDemirezen_GörselFinal\KutuphaneApp\kutuphaneApp.Entity\obj\x64\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\dersler\162113321_ElifDemirezen_GörselFinal\KutuphaneApp\kutuphaneApp.Entity\obj\x64\Debug\kutuphaneApp.Entity.pdb

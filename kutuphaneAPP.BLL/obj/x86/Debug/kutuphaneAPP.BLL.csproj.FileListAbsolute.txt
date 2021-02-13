@@ -1,0 +1,9 @@
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneAPP.BLL\bin\x86\Debug\kutuphaneAPP.BLL.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneAPP.BLL\bin\x86\Debug\kutuphaneAPP.BLL.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneAPP.BLL\bin\x86\Debug\kutuphane.DAL.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneAPP.BLL\bin\x86\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneAPP.BLL\bin\x86\Debug\kutuphane.DAL.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneAPP.BLL\bin\x86\Debug\kutuphaneApp.Entity.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneAPP.BLL\obj\x86\Debug\kutuphaneAPP.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneAPP.BLL\obj\x86\Debug\kutuphaneAPP.BLL.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneAPP.BLL\obj\x86\Debug\kutuphaneAPP.BLL.pdb

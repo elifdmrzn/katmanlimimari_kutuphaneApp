@@ -1,0 +1,5 @@
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.Entity\bin\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.Entity\bin\Debug\kutuphaneApp.Entity.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.Entity\obj\Debug\kutuphaneApp.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.Entity\obj\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.Entity\obj\Debug\kutuphaneApp.Entity.pdb

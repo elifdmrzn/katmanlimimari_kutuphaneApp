@@ -1,0 +1,14 @@
+C:\Users\MMFH\Desktop\kutuphaneAppp\kutuphane.DAL\bin\Debug\kutuphane.accdb
+C:\Users\MMFH\Desktop\kutuphaneAppp\kutuphane.DAL\bin\Debug\kutuphane.DAL.dll.config
+C:\Users\MMFH\Desktop\kutuphaneAppp\kutuphane.DAL\bin\Debug\kutuphane.DAL.dll
+C:\Users\MMFH\Desktop\kutuphaneAppp\kutuphane.DAL\bin\Debug\kutuphane.DAL.pdb
+C:\Users\MMFH\Desktop\kutuphaneAppp\kutuphane.DAL\obj\Debug\kutuphane.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MMFH\Desktop\kutuphaneAppp\kutuphane.DAL\obj\Debug\kutuphane.DAL.dll
+C:\Users\MMFH\Desktop\kutuphaneAppp\kutuphane.DAL\obj\Debug\kutuphane.DAL.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\bin\Debug\kutuphane.DAL.dll.config
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\bin\Debug\kutuphane.DAL.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\bin\Debug\kutuphane.DAL.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\bin\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\bin\Debug\kutuphaneApp.Entity.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\obj\Debug\kutuphane.DAL.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\obj\Debug\kutuphane.DAL.pdb

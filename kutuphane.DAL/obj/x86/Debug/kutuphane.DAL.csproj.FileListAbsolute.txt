@@ -1,0 +1,17 @@
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\bin\x86\Debug\kutuphane.DAL.dll.config
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\bin\x86\Debug\kutuphane.DAL.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\bin\x86\Debug\kutuphane.DAL.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\bin\x86\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\bin\x86\Debug\kutuphaneApp.Entity.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\obj\x86\Debug\kutuphane.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\obj\x86\Debug\kutuphane.DAL.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphane.DAL\obj\x86\Debug\kutuphane.DAL.pdb
+C:\Users\Elif\Desktop\kutup\kutuphane.DAL\bin\x86\Debug\kutuphane.accdb
+C:\Users\Elif\Desktop\kutup\kutuphane.DAL\bin\x86\Debug\kutuphane.DAL.dll.config
+C:\Users\Elif\Desktop\kutup\kutuphane.DAL\bin\x86\Debug\kutuphane.DAL.dll
+C:\Users\Elif\Desktop\kutup\kutuphane.DAL\bin\x86\Debug\kutuphane.DAL.pdb
+C:\Users\Elif\Desktop\kutup\kutuphane.DAL\bin\x86\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\kutup\kutuphane.DAL\bin\x86\Debug\kutuphaneApp.Entity.pdb
+C:\Users\Elif\Desktop\kutup\kutuphane.DAL\obj\x86\Debug\kutuphane.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Elif\Desktop\kutup\kutuphane.DAL\obj\x86\Debug\kutuphane.DAL.dll
+C:\Users\Elif\Desktop\kutup\kutuphane.DAL\obj\x86\Debug\kutuphane.DAL.pdb

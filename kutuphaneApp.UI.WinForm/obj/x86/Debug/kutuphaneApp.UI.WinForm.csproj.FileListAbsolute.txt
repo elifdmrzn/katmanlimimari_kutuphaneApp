@@ -1,0 +1,16 @@
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\bin\x86\Debug\kutuphaneApp.UI.WinForm.exe.config
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\bin\x86\Debug\kutuphane.mdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\bin\x86\Debug\kutuphaneApp.UI.WinForm.exe
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\bin\x86\Debug\kutuphaneApp.UI.WinForm.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\bin\x86\Debug\kutuphaneAPP.BLL.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\bin\x86\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\bin\x86\Debug\kutuphane.DAL.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\bin\x86\Debug\kutuphaneAPP.BLL.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\bin\x86\Debug\kutuphaneApp.Entity.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\bin\x86\Debug\kutuphane.DAL.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\obj\x86\Debug\kutuphaneApp.UI.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\obj\x86\Debug\kutuphaneApp.UI.WinForm.Properties.Resources.resources
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\obj\x86\Debug\kutuphaneApp.UI.WinForm.csproj.GenerateResource.Cache
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\obj\x86\Debug\kutuphaneApp.UI.WinForm.exe
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\obj\x86\Debug\kutuphaneApp.UI.WinForm.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.UI.WinForm\obj\x86\Debug\kutuphaneApp.UI.WinForm.uyeler.resources

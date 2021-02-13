@@ -1,0 +1,4 @@
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.Entity\bin\x86\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.Entity\bin\x86\Debug\kutuphaneApp.Entity.pdb
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.Entity\obj\x86\Debug\kutuphaneApp.Entity.dll
+C:\Users\Elif\Desktop\kutuphaneAppp\kutuphaneApp.Entity\obj\x86\Debug\kutuphaneApp.Entity.pdb
